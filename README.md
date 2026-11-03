@@ -13,7 +13,7 @@ And I don't stop at "it works": I want to understand **why** it works.
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [Portfolio](https://simonesbds.github.io/my-portfolio/) | Single-page portfolio with scroll animations | HTML, CSS, JavaScript, Bootstrap |
-| [Task Manager](https://simonesbds.github.io/task-manager/) | To-do app with filters, search, priorities and dark mode | JavaScript, localStorage, Bootstrap |
+| [Desk — Task Manager](https://simonesbds.github.io/task-manager/) | Productivity-style task manager with priorities, progress tracking and keyboard shortcuts | JavaScript, localStorage, CSS |
 | [Random Quote Machine](https://simonesbds.github.io/quote-machine/) | Random advice from a public API, with loading and error states | JavaScript, Fetch API |
 
 ## Let's talk
