@@ -2,7 +2,7 @@
 
 Junior web developer from Italy. I like making the web feel **alive**: smooth transitions, interfaces that react when you scroll, small details that make you want to keep clicking.
 
-And I don't stop at "it works": I want to understand **why** it works.
+If something works and I don't know why, it bugs me until I figure it out.
 
 - 🌱 Currently learning the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🧰 Working with **HTML, CSS, JavaScript, Bootstrap, Git**
